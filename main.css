@@ -1,0 +1,64 @@
+html, body, h1, h2, h3, ul, ol, li, p, a {
+    padding: 0;
+    border: 0;
+    margin: 0;
+    font: inherit;
+    font-size: 100%;
+  }
+h1 {
+    padding: 128px 0px 20px 0px;
+text-align: center;
+font-weight: bold;
+font-size: 48px;
+color: #ffffff;
+font-family: Verdana, "Times New Roman", sans-serif;
+}
+h2 {
+    text-align: center;
+    font-size: 14px;
+    color: #ffffff;
+    font-family: Verdana, "Times New Roman", sans-serif;
+}
+h3{
+    font-family: Verdana, "Times New Roman", sans-serif;
+
+}
+p {
+    font-family: Verdana, "Times New Roman", sans-serif; 
+
+}
+body {
+    padding: 0px;
+    font-family: Verdana, "Times New Roman", sans-serif;
+
+}
+.header { background-color: #3b3b3b;
+padding: 15px;
+text-align: center;
+text-decoration: none;
+font-family: Verdana, "Times New Roman", sans-serif;
+}
+.content {background: #000000 url(page-images/bg.jpg) center center repeat;
+    background-size: 1920px;
+    height: 600px;
+font-family: Verdana, "Times New Roman", sans-serif;
+}
+.nav li {display: inline;
+    font-size: 16px;
+    padding-right: 20px;
+    text-decoration: none;
+    color: #ffffff;
+    font-family: Verdana, "Times New Roman", sans-serif;
+}
+.nav li:last-child { padding-right: 0px;
+    font-family: Verdana, "Times New Roman", sans-serif;
+}
+.nav a {
+    color: #ffffff;
+    text-decoration: none;
+    font-family: Verdana, "Times New Roman", sans-serif;
+    font-size: 16px;
+}
+.nav ul { text-decoration: none;
+    font-family: Verdana, "Times New Roman", sans-serif;
+}
